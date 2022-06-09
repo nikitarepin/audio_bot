@@ -1,0 +1,1 @@
+token = '5330794117:AAGrDkt3_zgsFax4ySLKAb19oaw1OiycuTE' #токен моего бота
