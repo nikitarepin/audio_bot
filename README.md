@@ -1,2 +1,7 @@
 # audio_bot
-This bot will help translate your text into an audio message
+*This bot will help translate your text into an audio message | Этот бот поможет перевести сообщение в аудио-сообщение*
+____
+
+> Идея бота, который озвучивает сообщения возникла на основе тестового задания на python, которое я увидел в youtube
+
+**Концепция бота:** он работает с помощью 2 библиотек ("telebot", "gTTS"), "gTTS" помогает озвучить сообщение голосом google переводчика и сохранить его, а далее аудиосообщение отправляется пользователю.
